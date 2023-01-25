@@ -1,4 +1,5 @@
 import { Footer, Navbar } from "../components";
+
 import {
   About,
   Explore,

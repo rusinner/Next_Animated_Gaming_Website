@@ -5,3 +5,5 @@ next.config.js
 public
 jsonconfig.json
 .next
+postcss.config.js
+tailwind.config.js

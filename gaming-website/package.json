@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@next/font": "13.1.5",
+    "autoprefixer": "^10.4.13",
     "framer-motion": "^8.5.2",
     "next": "13.1.5",
     "postcss": "^8.4.21",

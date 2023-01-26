@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { TypingText, ExploreCard, TitleText, StartSteps } from "../components";
+import { TypingText, TitleText, StartSteps } from "../components";
 
 import styles from "../styles";
 import { staggerContainer, fadeIn, planetVariants } from "../utils/motion";
